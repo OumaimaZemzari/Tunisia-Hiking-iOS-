@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, ’10.0’
+
+target 'RondoOumaima' do
+   use_frameworks!
+    pod 'Google/SignIn'
+    pod 'GooglePlaces'
+    pod 'GoogleMaps'
+    pod 'Firebase'  
+    pod 'FirebaseAuth'
+    pod 'FirebaseDatabase'
+    pod 'GoogleSignIn'  
+    pod 'FBSDKCoreKit'
+    pod 'FBSDKShareKit'
+    pod 'FBSDKLoginKit'
+    pod 'FirebaseStorage'
+    pod 'FirebaseMessaging'
+    pod 'XLPagerTabStrip', :git => 'https://github.com/KelvinJin/XLPagerTabStrip', :branch => 'swift3'
+  # Pods for RondoOumaima
+
+end

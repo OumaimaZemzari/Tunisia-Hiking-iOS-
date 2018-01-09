@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11542" systemVersion="15G31" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Rondonne" representedClassName="Rondonne" syncable="YES" codeGenerationType="class">
+        <attribute name="dateRondo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="departlat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="departlong" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="descri" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="destinationlat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="destinationlong" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="organizer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="prix" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titre" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Rondonne" positionX="-63" positionY="-18" width="128" height="195"/>
+    </elements>
+</model>
